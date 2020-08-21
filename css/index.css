@@ -1,0 +1,24 @@
+html, body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+    text-align: center;
+}
+.start_page {
+    text-align: center;
+}
+.start_page_buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.create_account_button, .login_button {
+    width:150px;
+    height: 50px;
+    margin: 10px auto;
+}
+ul{
+    list-style: none;
+    padding:0;
+}
