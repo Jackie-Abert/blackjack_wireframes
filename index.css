@@ -1,0 +1,15 @@
+.start_page {
+    text-align: center;
+}
+
+.start_page_buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.create_account_button, .login_button {
+    width:200px;
+    height: 50px;
+    margin: auto;
+}
