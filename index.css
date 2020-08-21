@@ -129,3 +129,7 @@ h2{
 .game_rules_page p{
     text-align: left;
 }
+ul{
+    list-style: none;
+    padding:0;
+}
